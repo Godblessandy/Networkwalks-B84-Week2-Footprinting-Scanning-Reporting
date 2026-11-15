@@ -1,4 +1,4 @@
-# Networkwalks-B84-Week2-Footprinting & Scanning
+Networkwalks-B84-Week2-Footprinting & Scanning
 I have completed my penetration testing process focusing on two important area: footprinting and scanning
 One module covers the footprinting phase and the other covers the scanning phase. Footprinting involves the process of gathering publicly available information about a target domain, networkwalks.com, using specialized tools within Kali Linux. This phase demonstrates how kali linux (attacker) begins by mapping the digital footprint of an organization before attempting deeper intrusion.
 Using kali linux all commands were run (footprinting) and on a Windows PC Zenmap was installed for scanning.
